@@ -13,11 +13,13 @@ A feature-rich Android application built to help users manage their tasks effici
 - **Custom Navigation:** Independently change the status bar and navigation bar colors for each fragment.
 
 ## Screenshots
-
-![Home Screen](![home](https://github.com/leviakerman9/Taskify/assets/108329099/d3ffc08e-5af4-47dd-9526-3475520a070d))
-![Edit Task](![edit](https://github.com/leviakerman9/Taskify/assets/108329099/8bdd3447-805d-4a33-90d7-eded86ae6ac5))
-![Add Task](![no image](https://github.com/leviakerman9/Taskify/assets/108329099/fb3cbac4-2f79-4fbe-9e15-beac327cec4f))
-![Delete Confirmation](![delete](https://github.com/leviakerman9/Taskify/assets/108329099/7bd446e4-b472-4bf4-867b-cee273faf3e8))
+<img src="![no image](https://github.com/leviakerman9/Taskify/assets/108329099/6efc856a-05d2-4b97-a8a1-46cc58510977)" alt="Home Screen" width="300">
+<img src="![splash (2)](https://github.com/leviakerman9/Taskify/assets/108329099/0b56f9fc-32fe-4a5c-85eb-98578863b5fa)
+" alt="Add Task" width="300">
+<img src="![home](https://github.com/leviakerman9/Taskify/assets/108329099/abab14be-d2a1-4c22-b8bd-38f6780f1aac)
+" alt="Edit Task" width="300">
+<img src="![edit](https://github.com/leviakerman9/Taskify/assets/108329099/c2852856-a552-4df8-bafc-7aeb6ad76f74)
+" alt="Delete Confirmation" width="300">
 
 ## Tech Stack
 
